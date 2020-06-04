@@ -1,11 +1,12 @@
 # User Directory
 
-**URL**
-https://github.com/usualketchup/UserDirectory
+## Links
 
-https://usualketchup.github.io/User-Directory/
+Github: https://github.com/usualketchup/UserDirectory
 
-https://drive.google.com/file/d/152suNxWWg3uu1FsIgIlOiDmq_YNR1vl3/view
+Heroku: 
+
+Heroku Functionality: 
 
 ## Description
 
