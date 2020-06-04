@@ -4,9 +4,9 @@
 
 Github: https://github.com/usualketchup/UserDirectory
 
-Heroku: 
+Heroku: https://guarded-savannah-06143.herokuapp.com/
 
-Heroku Functionality: 
+Heroku Functionality: https://drive.google.com/file/d/14C8Mj4h8XsgMVT8GP-a8FCZ4nI-_sKVF/view
 
 ## Description
 
